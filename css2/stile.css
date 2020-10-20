@@ -1,0 +1,138 @@
+body {
+    background-color: #e2e7ec;
+}
+
+main {
+    text-transform: uppercase;
+    width: 1120px;
+    height: 1105px;
+    margin: 91px auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.top {
+    width: 1120px;
+    height: 543px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.down {
+    width: 1120px;
+    height: 543px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.car {
+    width: 740px;
+    height: 543px;
+    background-image: url(../img/2/Layer\ 8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.girl {
+    width: 360px;
+    height: 543px;
+    background-color: white;
+    
+}
+
+.container {
+    margin: 28px 70px 0 29px;
+}
+
+.november {
+    color: #818181;
+    font-family: hansKendrick;
+    font-size: 13px;
+
+}
+
+.how {
+    color: #1d1d1d;
+    font-family: hansKendrick;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.how1 {
+    color: #ffffff;
+    font-family: hansKendrick;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+    width: 410px;
+    line-height: 36px;
+}
+
+.how2 {
+    color: #1d1d1d;
+    font-family: hansKendrick;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 63px;
+}
+
+.autoall{
+    margin: 406px 319px 0 45px;
+}
+
+.layer2 {
+    margin-top: 36px;
+
+}
+
+.layer3 {
+    margin-top: 70px;
+}
+
+.photo {
+    width: 360px;
+    height: 543px;
+    background-color: white;
+}
+ 
+.foot {
+    width: 360px;
+    height: 543px;
+    background-color: white;
+}
+
+.city {
+    width: 360px;
+    height: 543px;
+    background-color: white;
+}
+
+@font-face {
+    font-family: "hansKendrick";
+    src: url(../fonts2/NeueHansKendrickRegular.otf) 
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 78px;
+    margin-bottom: 103px;
+    width: 240px;
+
+
+
+}
+
+.loading {
+    color: #99a5b0;
+    font-family: hansKendrick;
+    font-size: 13px;
+    margin-left: 15px;
+}
+

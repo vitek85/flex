@@ -1,0 +1,121 @@
+body {
+    background-color: #fdde7e;
+}
+
+.all {
+    width: 1200px;
+    height: 600px;
+    margin: 180px auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.bronze {
+    width: 360px;
+    height: 422px;
+    background: white;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.buks {
+    font-size: 70px;
+    font-family: misoBold;
+    color: #02995b;
+    
+}
+
+.container {
+    width: 135px;
+    height: 132px;
+    
+    
+
+}
+
+.smoke {
+    position: relative;
+    right: -32px;
+
+}
+
+.bean {
+    position: relative;
+    top: -64px;
+    right: -41px;
+}
+
+
+
+
+.bronze2 {
+    color: #333333;
+    font-size: 56px;
+    font-family: misoRegular;
+   
+
+}
+
+.text {
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    width: 152px;
+    text-align: center;
+
+
+}
+
+
+
+.gold {
+    width: 360px;
+    height: 500px;
+    background-color: white;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.silver {
+    width: 360px;
+    height: 422px;
+    background: white;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+@font-face {
+    font-family: "misoRegular";
+    src: url(../fonts/miso-regular.ttf);
+}
+
+@font-face {
+    font-family: "misoBold";
+    src: url(../fonts/miso-bold.ttf);
+}
+  
+
+a {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
